@@ -10,7 +10,7 @@ I´m an self-taught developer focused on learning full stack JavaScript. 👨‍
  
 - Looking to collaborate on open source projects that allow me to practice and improve my skills
 
-- And I'm looking for a work (i nedd it)
+- Looking for a work (i need it)
 
  
 
