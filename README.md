@@ -18,7 +18,7 @@ I´m an self-taught developer focused on learning full stack JavaScript. 👨‍
 
 - [Whatsapp](https://wa.link/s4mst1)
 
-- [Gmail](https://maksumimurakami@gmail.com)
+- [Gmail](mailto:maksumimurakami@gmail.com)
 
 <!--
 **maksumi/maksumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
