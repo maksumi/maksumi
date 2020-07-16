@@ -10,9 +10,15 @@ I´m an self-taught developer focused on learning full stack JavaScript. 👨‍
  
 - Looking to collaborate on open source projects that allow me to practice and improve my skills
 
-- Looking for a work (i need it)
+- Looking for a work 🔭 (i need it)
 
- 
+### 📫 How to reach me:
+
+- [Facebook](https://facebook.com/maksumidev)
+
+- [Whatsapp](https://wa.link/s4mst1)
+
+- [Gmail](maksumimurakami@gmail.com)
 
 <!--
 **maksumi/maksumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
