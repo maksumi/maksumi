@@ -1,4 +1,5 @@
-## Hi, I'm Maksumi 👋
+
+<!--## Hi, I'm Maksumi 👋
 
 I´m an self-taught developer focused on learning full stack JavaScript. 👨‍💻
 
@@ -20,7 +21,6 @@ I´m an self-taught developer focused on learning full stack JavaScript. 👨‍
 
 - [Gmail](mailto:maksumimurakami@gmail.com)
 
-<!--
 **maksumi/maksumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,11 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<body>
-<h1>Hola</h1>
-<br>Hello<br>Hello
-</body>
-<script>
-alert("Hello World")
-<script>
