@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner]([ruta_a_la_imagen/banner.png](https://img.itch.zone/aW1hZ2UvNTIwODU1LzI3MDg2ODYucG5n/original/GYcgmB.png))
+![Banner](https://i.pinimg.com/564x/f3/52/99/f3529942a85ecbe5f4028f0517d551d4.jpg)
 <!--
 **maksumi/maksumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
