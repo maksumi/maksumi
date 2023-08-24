@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://i.pinimg.com/564x/2d/c1/76/2dc17698b7af4275f77cdcdad7102d15.jpg" alt="Banner" width="100%" style="transform: rotate(90deg);">
+  <img src="https://i.pinimg.com/564x/2d/c1/76/2dc17698b7af4275f77cdcdad7102d15.jpg" alt="Banner" width="100%" style="transform: rotate(45deg);">
 </p><!--
 **maksumi/maksumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
