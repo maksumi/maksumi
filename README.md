@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-- 🎯 I am currently developing an application to optimize the workflow of a textile advertising services company, integrating key functionalities such as order tracking, production monitoring, and data centralization.
+- 🎯 I am currently developing an application to optimize the workflow of a textile branding services workshop, integrating key functionalities such as order tracking, production monitoring, and data centralization.
 - ⏳ My goal is to launch a functional product in **6 months**, improving both my technical expertise and career opportunities.
 - 🧠 I am constantly learning, revisiting programming fundamentals, and exploring modern technologies like React, Java (Spring Boot), MySQL, and UX/UI design.
 - 🌐 I enjoy sharing my progress on social media to connect with other developers, mentors, and recruiters.
